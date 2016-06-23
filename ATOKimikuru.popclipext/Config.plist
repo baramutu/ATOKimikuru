@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>イ</string>
+			<key>Service Name</key>
+			<string>ATOKイミクルで検索</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Bundle Identifier</key>
+			<string>com.justsystems.atok29.AtokDv</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>http://www.justsystems.com/jp/products/atokmac/</string>
+			<key>Name</key>
+			<string>ATOK 2016 for Mac</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>選択文字列を対象にATOKイミクルを呼び出します</string>
+	<key>Extension Identifier</key>
+	<string>jp.baramutu.atokimikuru</string>
+	<key>Extension Name</key>
+	<string>ATOKイミクル</string>
+	<key>Requirements</key>
+	<array>
+		<string>copy</string>
+	</array>
+</dict>
+</plist>

@@ -9,7 +9,7 @@ ATOK2016 for Macに対応しています。
 
 ダウンロード：https://github.com/baramutu/ATOKimikuru/archive/master.zip
 
-ZIPファイルを展開して、ATOKimikuru.popclipextフォルダ（パッケージ）をダブルクリックしてください。
+ZIPファイルを展開して、ATOKimikuru.popclipextをダブルクリックしてください。
 
 ATOK for Mac: http://www.justsystems.com/jp/products/atokmac/ <br />
 PopClip: http://pilotmoon.com/popclip/

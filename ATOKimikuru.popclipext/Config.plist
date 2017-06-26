@@ -15,6 +15,16 @@
 	<array>
 		<dict>
 			<key>Bundle Identifier</key>
+			<string>com.justsystems.atok29.AtokDv</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>http://www.justsystems.com/jp/products/atokmac/</string>
+			<key>Name</key>
+			<string>ATOK 2016 for Mac</string>
+		</dict>
+		<dict>
+			<key>Bundle Identifier</key>
 			<string>com.justsystems.atok30.AtokDv</string>
 			<key>Check Installed</key>
 			<true/>

@@ -33,6 +33,16 @@
 			<key>Name</key>
 			<string>ATOK 2017 for Mac</string>
 		</dict>
+		<dict>
+			<key>Bundle Identifier</key>
+			<string>com.justsystems.atok31.AtokDv</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>http://www.justsystems.com/jp/products/atokmac/</string>
+			<key>Name</key>
+			<string>ATOK for Mac Ver31</string>
+		</dict>
 	</array>
 	<key>Extension Description</key>
 	<string>選択文字列を対象にATOKイミクルを呼び出します</string>

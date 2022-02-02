@@ -1,7 +1,7 @@
 # ATOKイミクル for PopClip
 
 PopClipからATOKイミクルを引くためのPopClip拡張です。<br />
-ATOK2016 for Macに対応しています。
+ATOK2017 for Mac以降のバージョンに対応しています。
 
 ## 使用例
 ![使用例](https://github.com/baramutu/ATOKimikuru/blob/images/atokimikuru_popclip.gif)
